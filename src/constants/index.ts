@@ -140,7 +140,7 @@ export const EXPERIENCES = [
     company_name: "tech.Solution",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2023 - Feb 2025",
+    date: "Nov 2022 – Oct 2024",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -153,7 +153,7 @@ export const EXPERIENCES = [
     company_name: "saylani",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2022 - Feb 2023",
+    date: " May 2022 – Oct 2022",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
